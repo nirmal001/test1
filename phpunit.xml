@@ -3,7 +3,7 @@
 	colors="true" syntaxCheck="false" strict="false" verbose="false">
 	<testsuites>
 		<testsuite name="Graphity">
-			<directory suffix="Test.php">src/test</directory>
+			<directory suffix="index.php">src/test</directory>
 		</testsuite>
 	</testsuites>
     <php>
